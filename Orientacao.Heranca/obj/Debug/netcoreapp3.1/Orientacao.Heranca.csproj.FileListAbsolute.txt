@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.exe
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.deps.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.runtimeconfig.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.runtimeconfig.dev.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\bin\Debug\netcoreapp3.1\Orientacao.Heranca.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.AssemblyInfo.cs
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Heranca\Orientacao.Heranca\obj\Debug\netcoreapp3.1\Orientacao.Heranca.genruntimeconfig.cache
